@@ -1,5 +1,4 @@
 
-````markdown
 ## Typing Speed Test
 
 A simple yet elegant **Typing Speed Test** desktop app built using Python and Tkinter.  
