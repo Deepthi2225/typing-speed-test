@@ -21,11 +21,8 @@ It helps users test and improve their typing speed, accuracy, and consistency.
 
 ### Screenshot
 
-*(You can upload a screenshot on GitHub and link it here)*
+![Typing Speed Test Screenshot](./ss.png)
 
-```markdown
-![Typing Speed Test Screenshot](./ss1.png)
-````
 
 ---
 
